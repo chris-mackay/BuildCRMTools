@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildCRMTools", "BuildCRMTools\BuildCRMTools.csproj", "{22C8B41E-00E9-41AD-9D30-518A0FE770CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22C8B41E-00E9-41AD-9D30-518A0FE770CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C8B41E-00E9-41AD-9D30-518A0FE770CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C8B41E-00E9-41AD-9D30-518A0FE770CA}.Debug|x64.ActiveCfg = Debug|x64
+		{22C8B41E-00E9-41AD-9D30-518A0FE770CA}.Debug|x64.Build.0 = Debug|x64
+		{22C8B41E-00E9-41AD-9D30-518A0FE770CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C8B41E-00E9-41AD-9D30-518A0FE770CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22C8B41E-00E9-41AD-9D30-518A0FE770CA}.Release|x64.ActiveCfg = Release|x64
+		{22C8B41E-00E9-41AD-9D30-518A0FE770CA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2795789-C6CB-47C8-AFE6-027F70614EFE}
+	EndGlobalSection
+EndGlobal

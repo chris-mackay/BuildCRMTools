@@ -1,0 +1,5 @@
+C:\Programming\BuildCRMTools\BuildCRMTools\bin\x64\Debug\BuildCRMTools.exe.config
+C:\Programming\BuildCRMTools\BuildCRMTools\bin\x64\Debug\BuildCRMTools.exe
+C:\Programming\BuildCRMTools\BuildCRMTools\bin\x64\Debug\BuildCRMTools.pdb
+C:\Programming\BuildCRMTools\BuildCRMTools\obj\x64\Debug\BuildCRMTools.exe
+C:\Programming\BuildCRMTools\BuildCRMTools\obj\x64\Debug\BuildCRMTools.pdb

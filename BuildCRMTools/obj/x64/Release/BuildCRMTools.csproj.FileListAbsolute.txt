@@ -1,0 +1,6 @@
+C:\Programming\BuildCRMTools\BuildCRMTools\bin\x64\Release\BuildCRMTools.exe.config
+C:\Programming\BuildCRMTools\BuildCRMTools\bin\x64\Release\BuildCRMTools.exe
+C:\Programming\BuildCRMTools\BuildCRMTools\bin\x64\Release\BuildCRMTools.pdb
+C:\Programming\BuildCRMTools\BuildCRMTools\obj\x64\Release\BuildCRMTools.exe
+C:\Programming\BuildCRMTools\BuildCRMTools\obj\x64\Release\BuildCRMTools.pdb
+C:\Programming\BuildCRMTools\BuildCRMTools\obj\x64\Release\BuildCRMTools.csprojAssemblyReference.cache
